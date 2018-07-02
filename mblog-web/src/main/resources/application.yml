@@ -13,7 +13,7 @@ spring:
             number_format: 0.##
 
     datasource:
-        url: jdbc:mysql://119.29.12.78:3306/db_mblog?useSSL=false&characterEncoding=utf8
+        url: jdbc:mysql://111.231.104.76:3306/db_mblog?useSSL=false&characterEncoding=utf8
         username: root
         password: lyy123456
     jpa:
